@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thapasampada
-- 🌱 I’m currently learning CSS, JavaScript
+- 🌱 I’m currently learning AI/ML, MERN
 - 📫 How to reach me mail:sampadathapa2020@gmail.com
 - 😄 Pronouns: she/her
 
